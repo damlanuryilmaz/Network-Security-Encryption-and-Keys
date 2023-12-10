@@ -1,5 +1,6 @@
 site_name: Network Security Encryption and Keys
-repo_url: https://github.com/damlanuryilmaz/network_security
+repo_url: https://github.com/damlanuryilmaz/Network-Security-Encryption-and-Keys
+site_url: https://damlanuryilmaz.github.io/Network-Security-Encryption-and-Keys/
 
 theme:
   name: material
